@@ -13,7 +13,7 @@ def binarioDecimal(binario):
 #Menu de seleccion
 def repeticion():
     print("Seleccione una opcion")
-    print("1.- Decimal a bianrio")
+    print("1.- Decimal a binario")
     print("2.- Binario a decimal")
     print("3.- Salir")
 
