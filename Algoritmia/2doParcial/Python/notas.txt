@@ -1,0 +1,12 @@
+Python es un lenguaje de programacion multiparadigma
+
+Significa que puede soportar diferentes modos de programacion
+imperrativa, (estructural), orientada a objetos, funcional
+
+Multiplataforma, eso significa que tiene soporte programacionwin, linux, os, estructural
+
+Es fuertemente tipado, significa que debemos conocer el tipadode dato, al usar una variable en un contexto diferente
+debe existir una conversion
+
+Es un lenguaje interpretado, no pasa por un estado
+de compilacion, signifca que no pasa por un lenguaje maquina
