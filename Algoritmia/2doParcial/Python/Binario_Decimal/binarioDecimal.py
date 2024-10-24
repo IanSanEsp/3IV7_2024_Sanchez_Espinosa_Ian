@@ -1,13 +1,16 @@
+#Convertir decimal a binario
 def decimalBinario(decimal):
     binarioF = bin(decimal).replace("0b", "")
     print("El binario es: " + binarioF)
     return binarioF
 
+#Convertir binario a decimal
 def binarioDecimal(binario):
     decimalF = int(binario, 2)
     print("El decimal es: ", decimalF)
     return decimalF
 
+#Menu de seleccion
 def repeticion():
     print("Seleccione una opcion")
     print("1.- Decimal a bianrio")
