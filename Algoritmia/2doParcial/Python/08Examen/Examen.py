@@ -110,6 +110,7 @@ def editarPiloto():
 
             messagebox.showinfo("Edicion completada", "Edicion finalizado exitosamente")
     guardarDatos()
+    messagebox.showwarning("Error", "Piloto no encontrado")
 
 
 #Mostrar lista de todos los pilotos
